@@ -8,4 +8,8 @@ class Clase1 {
 
 
 	}
+
+	public String toString(){
+
+	}
 }
